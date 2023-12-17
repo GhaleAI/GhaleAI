@@ -7,4 +7,3 @@
 <h2>CERTIFICATIONS</h2>
 
 - [GOOGLE CYBERSECURITY CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/XKWD6WKFLFWF)
-
